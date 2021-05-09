@@ -154,6 +154,7 @@ LOCAL_SRC_FILES     := src/vxo/box.cc        \
                        src/vxo/lib/unbin.cc  \
                        src/vxo/lib/unhex.cc  \
                        src/vxo/string.cc     \
+                       src/vxo/ptrvec.cc     \
 
 LOCAL_C_INCLUDES    := $(LOCAL_PATH)/src
 LOCAL_CPP_EXTENSION := .cc
